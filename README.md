@@ -34,10 +34,10 @@ Average temperature by event id
 ![alt text](image-10.png)
 
 7. Join average temp with original table using Join transformation
-![alt text](image-11.png)
+![alt text](image-18.png)
 
 Joined tables
-![alt text](image-12.png)
+![alt text](image-11.png)
 
 8. Select and Rename columns using manage transformation
 ![alt text](image-13.png)
